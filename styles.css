@@ -999,4 +999,14 @@ background-clip: text; /* Standard property */
   }
   
   /* Add other enhancements to existing styles */
+@media (max-width: 767px) {
+  /* Mobile-specific styles */
+  /* ... Adjustments for mobile screens ... */
+}
+
+/* Media query for screens with a minimum width of 768px (desktop devices) */
+@media (min-width: 768px) {
+  /* Desktop-specific styles */
+  /* ... Adjustments for desktop screens ... */
+}
   
